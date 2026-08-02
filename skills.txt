@@ -1,0 +1,2 @@
+Python, basic DSA (practicing LeetCode), built a Pokedex project using
+Streamlit, currently learning FastAPI, beginner level backend developer.
